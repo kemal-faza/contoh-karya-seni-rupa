@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Kaligrafi",
+        "bentuk": "2D",
+        "jenis": "Pure Art (Seni Rupa Murni)",
+        "kegunaan": "Sebagai pajangan",
+        "gambar": "img1.jpg"
+    },
+    {
+        "nama": "Desain Web",
+        "bentuk": "2D",
+        "jenis": "Applied Art (Seni Rupa Terapan)",
+        "kegunaan": "Sebagai desain dalam membuat website",
+        "gambar": "img2.png"
+    },
+    {
+        "nama": "Sajadah",
+        "bentuk": "2D",
+        "jenis": "Applied Art (Seni Rupa Terapan)",
+        "kegunaan": "Sebagai alas sholat",
+        "gambar": "img3.jpg"
+    },
+    {
+        "nama": "Gantungan Kunci",
+        "bentuk": "3D",
+        "jenis": "Pure Art (Seni Rupa Murni)",
+        "kegunaan": "Sebagai hiasan kunci",
+        "gambar": "img4.jpg"
+    },
+    {
+        "nama": "Gelas Keramik",
+        "bentuk": "3D",
+        "jenis": "Applied Art (Seni Rupa Terapan)",
+        "kegunaan": "Sebagai alat minum",
+        "gambar": "img5.jpg"
+    }
+]
